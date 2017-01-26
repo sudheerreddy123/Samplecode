@@ -1,0 +1,12 @@
+D:\C#.net files\consoleprogram\consoleprogram\bin\Debug\consoleprogram.exe.config
+D:\C#.net files\consoleprogram\consoleprogram\obj\Debug\consoleprogram.csprojResolveAssemblyReference.cache
+D:\C#.net files\consoleprogram\consoleprogram\bin\Debug\consoleprogram.exe
+D:\C#.net files\consoleprogram\consoleprogram\bin\Debug\consoleprogram.pdb
+D:\C#.net files\consoleprogram\consoleprogram\obj\Debug\consoleprogram.exe
+D:\C#.net files\consoleprogram\consoleprogram\obj\Debug\consoleprogram.pdb
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\bin\Debug\consoleprogram.exe.config
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\obj\Debug\consoleprogram.exe
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\obj\Debug\consoleprogram.pdb
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\bin\Debug\consoleprogram.exe
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\bin\Debug\consoleprogram.pdb
+C:\Users\chaitu\Documents\Sourcecode\consoleprogram\obj\Debug\consoleprogram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\C#.net files\FirstProject\GadeTest\bin\Debug\GadeTest.dll
+D:\C#.net files\FirstProject\GadeTest\bin\Debug\GadeTest.pdb
+D:\C#.net files\FirstProject\GadeTest\obj\Debug\GadeTest.csprojResolveAssemblyReference.cache
+D:\C#.net files\FirstProject\GadeTest\obj\Debug\GadeTest.dll
+D:\C#.net files\FirstProject\GadeTest\obj\Debug\GadeTest.pdb
+D:\C#.net files\FirstProject\GadeTest\bin\Debug\consoleprogram.exe
+D:\C#.net files\FirstProject\GadeTest\bin\Debug\consoleprogram.pdb
