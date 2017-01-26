@@ -8,7 +8,7 @@ namespace consoleprogram
 {
     public class Gradeclass
     {
-       
+        //This is a gradeclass constructor
         public Gradeclass()
         {
             grade = new List<float>();
