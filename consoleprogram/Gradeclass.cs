@@ -17,6 +17,7 @@ namespace consoleprogram
         public Gradestatistics computestats()
         {
             Gradestatistics stats = new Gradestatistics();
+            //This is a sum of the numbers using constructor
 
             float sum = 0;
             foreach (float g in grade)
